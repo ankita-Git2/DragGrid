@@ -1,0 +1,14 @@
+[
+  { "id": 1, "customer": "Ankita kumari", "lastSeen": "2024-09-20", "orders": 5, "totalSpent": "$500", "latestPurchase": "2024-09-19", "news": true, "segments": "Regular" },
+  { "id": 2, "customer": "Adam Tuan", "lastSeen": "2024-09-18", "orders": 3, "totalSpent": "$300.32", "latestPurchase": "2024-09-17", "news": false, "segments": "Collector" },
+  { "id": 3, "customer": "Sam Johnson", "lastSeen": "2024-09-21", "orders": 8, "totalSpent": "$800", "latestPurchase": "2024-09-20", "news": true, "segments": "Regular" },
+  { "id": 4, "customer": "Alice Brown", "lastSeen": "2024-09-15", "orders": 2, "totalSpent": "$150", "latestPurchase": "2024-09-14", "news": false, "segments": " " },
+  { "id": 5, "customer": "Bob White", "lastSeen": "2024-09-19", "orders": 6, "totalSpent": "$600.09", "latestPurchase": "2024-09-18", "news": true, "segments": "Regular" },
+  { "id": 6, "customer": "Charlie Black", "lastSeen": "2024-09-17", "orders": 4, "totalSpent": "$400.76", "latestPurchase": "2024-09-16", "news": false, "segments": " " },
+  { "id": 7, "customer": "Diana Green", "lastSeen": "2024-09-22", "orders": 7, "totalSpent": "$700", "latestPurchase": "2024-09-21", "news": true, "segments": "Regular" },
+  { "id": 8, "customer": "Eve Blue", "lastSeen": "2024-09-20", "orders": 1, "totalSpent": "$100", "latestPurchase": "2024-09-19", "news": false, "segments": " " },
+  { "id": 9, "customer": "Frank Yellow", "lastSeen": "2024-09-18", "orders": 9, "totalSpent": "$900.05", "latestPurchase": "2024-09-17", "news": true, "segments": " " },
+  { "id": 10, "customer": "Grace Red", "lastSeen": "2024-09-16", "orders": 5, "totalSpent": "$500", "latestPurchase": "2024-09-15", "news": false, "segments": "Collector" },
+  { "id": 11, "customer": "Hank Purple", "lastSeen": "2024-09-14", "orders": 3, "totalSpent": "$300.12", "latestPurchase": "2024-09-13", "news": true, "segments": "Regular" },
+  { "id": 12, "customer": "Ivy Orange", "lastSeen": "2024-09-13", "orders": 2, "totalSpent": "$200.98", "latestPurchase": "2024-09-12", "news": false, "segments": "New" }
+]

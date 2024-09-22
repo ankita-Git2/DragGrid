@@ -1,0 +1,53 @@
+/* General Styles */
+body {
+  font-family: 'Times New Roman', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #f06, #4a90e2);
+  color: #333;
+}
+
+/* Task Board */
+.task-board {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 5);
+}
+
+/* Columns */
+.column {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  width: 250px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.column:hover {
+  transform: translateY(-10px);
+}
+
+/* Task List */
+.task-list {
+  min-height: 150px;
+}
+
+/* Tasks */
+.task {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.task:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transform: translateY(-5px);
+}
